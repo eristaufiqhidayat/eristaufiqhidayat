@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Eris Taufiq H</h1>
-<img src="https://www.lembaharafah.com/wp-content/uploads/2023/06/santri.jpg"  width="40" height="40" />
+## Hi 👋, I'm Eris Taufiq H
+![App Screenshot](santri.jpg)
 <h3 align="left">Cupu developer from Indonesia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
